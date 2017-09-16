@@ -10,6 +10,9 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 	- `PythonPractice_4.ipynb`: Introduction to data visualization with Matplotlib and Seaborn.  
 	- `data/`: containing one sample dataset for the notebooks and one for exercise.  
 
+- Week 2 (`wk2/`)  
+	- `SklearnTutorial.ipynb`: Introduction to scikit-learn (`sklearn`) and a step-by-step guide of building a machine learning model with `sklearn`
+	- `SklearnTutorial-solution.ipynb`: The solution to the `SklearnTutorial.ipynb`
 
 
 
