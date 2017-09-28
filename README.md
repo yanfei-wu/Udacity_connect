@@ -11,8 +11,11 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 	- `data/`: containing one sample dataset for the notebooks and one for exercise.  
 
 - Week 2 (`wk2/`)  
-	- `SklearnTutorial.ipynb`: Introduction to scikit-learn (`sklearn`) and a step-by-step guide of building a machine learning model with `sklearn`
+	- `SklearnTutorial.ipynb`: Introduction to scikit-learn (`sklearn`) and a step-by-step guide of building a machine learning model with `sklearn` with the Titanic Survival dataset from Kaggle
 	- `SklearnTutorial-solution.ipynb`: The solution to the `SklearnTutorial.ipynb`
 
+- Week 3 (`wk3/`)  
+	- `RegressionModels.ipynb`: Introduction to the implementation and evaluatoin of regression models to predict housing price with `sklearn`.    
+	- `RegressionModels-solution.ipynb`: The solution to the `RegressionModels.ipynb`
 
 
