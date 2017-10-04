@@ -18,4 +18,8 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 	- `RegressionModels.ipynb`: Introduction to the implementation and evaluatoin of regression models to predict housing price with `sklearn`.    
 	- `RegressionModels-solution.ipynb`: The solution to the `RegressionModels.ipynb`
 
+- Week 4 (`wk4/`)  
+	- `NeuralNets_Miniproject.ipynb`: Introduction to the fundamentals of neural networks, the implementation of single layer and multi layer perceptrons, and perceptron with `scikit-learn`.    
+	- `NeuralNets_Miniproject-solution.ipynb`: The solution to the `NeuralNets_Miniproject.ipynb`
+
 
