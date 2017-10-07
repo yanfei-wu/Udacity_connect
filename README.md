@@ -12,7 +12,7 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 
 - Week 2 (`wk2/`)  
 	- `SklearnTutorial.ipynb`: Introduction to scikit-learn (`sklearn`) and a step-by-step guide of building a machine learning model with `sklearn` with the Titanic Survival dataset from Kaggle
-	- `SklearnTutorial-solution.ipynb`: The solution to the `SklearnTutorial.ipynb`
+	- `SklearnTutorial-solution.ipynb`: The solution to the `SklearnTutorial.ipynb` notebook.
 
 - Week 3 (`wk3/`)  
 	- `RegressionModels.ipynb`: Introduction to the implementation and evaluatoin of regression models to predict housing price with `sklearn`.    
@@ -20,6 +20,10 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 
 - Week 4 (`wk4/`)  
 	- `NeuralNets_Miniproject.ipynb`: Introduction to the fundamentals of neural networks, the implementation of single layer and multi layer perceptrons, and perceptron with `scikit-learn`.    
-	- `NeuralNets_Miniproject-solution.ipynb`: The solution to the `NeuralNets_Miniproject.ipynb`
+	- `NeuralNets_Miniproject-solution.ipynb`: The solution to the `NeuralNets_Miniproject.ipynb` notebook. 
 
+- Week 5 (`wk5/`)  
+	- `BayesNLP_Miniproject.ipynb`: Introduction to Bayes theorem and application of Bayes theorem in natual language processing. Write Python methods to calculate maximum likelihood of a word based on the preceding word, and build a Bayes classifier that computes with a context the optimal label for a second missing word based on the possible words that could be in the first blank.    
+	- `BayesNLP_Miniproject-solution.ipynb`: The solution to the `BayesNLP_Miniproject.ipynb` notebook. 
+	- `Quiz.pdf`: some quiz on supervised learning. 
 
