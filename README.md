@@ -22,8 +22,20 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 	- `NeuralNets_Miniproject.ipynb`: Introduction to the fundamentals of neural networks, the implementation of single layer and multi layer perceptrons, and perceptron with `scikit-learn`.    
 	- `NeuralNets_Miniproject-solution.ipynb`: The solution to the `NeuralNets_Miniproject.ipynb` notebook. 
 
+
 - Week 5 (`wk5/`)  
 	- `BayesNLP_Miniproject.ipynb`: Introduction to Bayes theorem and application of Bayes theorem in natual language processing. Write Python methods to calculate maximum likelihood of a word based on the preceding word, and build a Bayes classifier that computes with a context the optimal label for a second missing word based on the possible words that could be in the first blank.    
 	- `BayesNLP_Miniproject-solution.ipynb`: The solution to the `BayesNLP_Miniproject.ipynb` notebook. 
 	- `Quiz.pdf`: some quiz on supervised learning. 
+
+
+- Week 6 (`wk6/`)   
+	- `Clustering.ipynb`: Perform K-Means clustering on the Enron dataset. Visualize different clusters that form before and after feature scaling. Plot decision boundaries that arise from K-Means clustering using two of the features.      
+	- `Clustering-solution.ipynb`: The solution to the `Clustering.ipynb` notebook. 
+
+
+- Week 7 (`wk7/`)  
+	- `PCA.ipynb`: Perform Principal Component Analysis (PCA) on a large set of features to explain as much of the variance as possible in the data using a smaller set of features. Visualize the eigenfaces (orthonormal basis of components) that result from PCA. The dataset omes from "Labeled Faces in the Wild" (LFW), a database of more than 13,000 face photographs designed for studying the problem of unconstrained face recognition.  
+	- `PCA-solution.ipynb`: The solution to the `PCA.ipynb` notebook. 
+
 
