@@ -39,3 +39,17 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 	- `PCA-solution.ipynb`: The solution to the `PCA.ipynb` notebook. 
 
 
+- Week 8 (`wk8/`)  
+	- `FeatureSelection.ipynb`: Introduction to Chi-square test statistics and Pearson's Chi-square test. Learn how to perform univariate feature selection using the 'SelectKBest' class from scikit-learn. Learn how to do recursive feature elimination using the `RFE` class and RFE with cross-validation (`RFECV`) from scikit-learn. 
+	- `FeatureSelection-solution.ipynb`: The solution to the `FeatureSelection.ipynb` notebook. 
+
+
+- Week 9 (`wk9/`) 
+	- `Kaggle.ipynb`: Introduction to the process of creating machine learning solutions to a real world problem. Practice kills such as data analysis and visualization, model building, evaluation and optimization on a real world dataset.  
+
+- Week 10 (`wk10/`)
+	- `MNIST_Demo.ipynb`: Introduction to TensorFlow and Keras. Learn how to build neural networks using TensorFlow and Keras to solve a multiclass classification problem. Compare TensorFlow and Keras.  
+
+	
+
+
