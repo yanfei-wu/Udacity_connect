@@ -50,6 +50,9 @@ This repo contains a collection of Jupyter Notebooks to accompany the Udacity Co
 - Week 10 (`wk10/`)
 	- `MNIST_Demo.ipynb`: Introduction to TensorFlow and Keras. Learn how to build neural networks using TensorFlow and Keras to solve a multiclass classification problem. Compare TensorFlow and Keras.  
 
+- Week 11 (`wk11/`)
+	- `CNN_Tutorial.ipynb`: Build convolutional neural networks with Keras to classify images from the CIFAR-10 dataset.
+
 	
 
 
